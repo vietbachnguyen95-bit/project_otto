@@ -1,0 +1,126 @@
+{
+  "brand": "Ferrari",
+  "vehicles": [
+    {
+      "name": "12Cilindri",
+      "price_vnd": 21000000000,
+      "powertrain": "V12 6.5L Hút khí tự nhiên",
+      "power_hp": 819,
+      "transmission": "Ly hợp kép 8 cấp",
+      "acceleration_0_100_kmh": "2.9s",
+      "top_speed_kmh": 340,
+      "seats": 2,
+      "drivetrain": "RWD"
+    },
+    {
+      "name": "296 GTB",
+      "price_vnd": 21000000000,
+      "powertrain": "V6 3.0L Twin-Turbo + Mô-tơ điện",
+      "power_hp": 819,
+      "transmission": "Ly hợp kép 8 cấp",
+      "acceleration_0_100_kmh": "2.9s",
+      "top_speed_kmh": 330,
+      "seats": 2,
+      "drivetrain": "RWD"
+    },
+    {
+      "name": "SF90 Stradale",
+      "price_vnd": 34000000000,
+      "powertrain": "V8 4.0L Twin-Turbo + 3 Mô-tơ điện",
+      "power_hp": 986,
+      "transmission": "Ly hợp kép 8 cấp",
+      "acceleration_0_100_kmh": "2.5s",
+      "top_speed_kmh": 340,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "488 Pista Spider",
+      "price_vnd": 31000000000,
+      "powertrain": "V8 3.9L Twin-Turbo",
+      "power_hp": 720,
+      "transmission": "Ly hợp kép 7 cấp F1",
+      "acceleration_0_100_kmh": "2.85s",
+      "top_speed_kmh": 340,
+      "seats": 2,
+      "drivetrain": "RWD"
+    },
+    {
+      "name": "Daytona SP3",
+      "price_vnd": 60000000000,
+      "powertrain": "V12 6.5L F140HC Hút khí tự nhiên",
+      "power_hp": 840,
+      "transmission": "Ly hợp kép 7 cấp F1",
+      "acceleration_0_100_kmh": "2.85s",
+      "top_speed_kmh": 340,
+      "seats": 2,
+      "drivetrain": "RWD"
+    },
+    {
+      "name": "F8 Tributo",
+      "price_vnd": 19200000000,
+      "powertrain": "V8 3.9L Twin-Turbo",
+      "power_hp": 720,
+      "transmission": "Ly hợp kép 7 cấp F1",
+      "acceleration_0_100_kmh": "2.9s",
+      "top_speed_kmh": 340,
+      "seats": 2,
+      "drivetrain": "RWD"
+    },
+    {
+      "name": "LaFerrari",
+      "price_vnd": 85000000000,
+      "powertrain": "V12 6.3L Hút khí tự nhiên + HY-KERS",
+      "power_hp": 963,
+      "transmission": "Ly hợp kép 7 cấp F1",
+      "acceleration_0_100_kmh": "2.6s",
+      "top_speed_kmh": 350,
+      "seats": 2,
+      "drivetrain": "RWD"
+    },
+    {
+      "name": "Monza SP2",
+      "price_vnd": 45000000000,
+      "powertrain": "V12 6.5L Hút khí tự nhiên",
+      "power_hp": 810,
+      "transmission": "Ly hợp kép 7 cấp F1 DCT",
+      "acceleration_0_100_kmh": "2.9s",
+      "top_speed_kmh": 300,
+      "seats": 2,
+      "drivetrain": "RWD"
+    },
+    {
+      "name": "Portofino M",
+      "price_vnd": 16500000000,
+      "powertrain": "V8 3.9L Twin-Turbo",
+      "power_hp": 620,
+      "transmission": "Ly hợp kép 8 cấp",
+      "acceleration_0_100_kmh": "3.45s",
+      "top_speed_kmh": 320,
+      "seats": 4,
+      "drivetrain": "RWD"
+    },
+    {
+      "name": "Purosangue",
+      "price_vnd": 39000000000,
+      "powertrain": "V12 6.5L Hút khí tự nhiên",
+      "power_hp": 725,
+      "transmission": "Ly hợp kép 8 cấp (4RM-S EVO)",
+      "acceleration_0_100_kmh": "3.3s",
+      "top_speed_kmh": 310,
+      "seats": 4,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "Roma Coupe",
+      "price_vnd": 15700000000,
+      "powertrain": "V8 3.9L Twin-Turbo",
+      "power_hp": 620,
+      "transmission": "Ly hợp kép 8 cấp",
+      "acceleration_0_100_kmh": "3.4s",
+      "top_speed_kmh": 320,
+      "seats": 4,
+      "drivetrain": "RWD"
+    }
+  ]
+}

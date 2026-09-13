@@ -1,0 +1,4 @@
+mlx-lm
+chromadb
+sentence-transformers
+huggingface_hub

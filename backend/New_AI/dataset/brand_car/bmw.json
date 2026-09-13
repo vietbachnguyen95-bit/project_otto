@@ -1,0 +1,93 @@
+{
+  "brand": "BMW",
+  "vehicles": [
+    {
+      "name": "M4 Coupe",
+      "price_vnd": 5600000000,
+      "powertrain": "3.0L 6 xi-lanh thẳng hàng TwinPower Turbo",
+      "power_hp": 510,
+      "transmission": "Tự động 8 cấp M Steptronic",
+      "acceleration_0_100_kmh": "3.5s",
+      "top_speed_kmh": 290,
+      "seats": 4,
+      "drivetrain": "M xDrive / RWD"
+    },
+    {
+      "name": "Z4 M40i Roadster",
+      "price_vnd": 3500000000,
+      "powertrain": "3.0L 6 xi-lanh thẳng hàng BMW M TwinPower Turbo",
+      "power_hp": 382,
+      "transmission": "Tự động 8 cấp Sport Steptronic",
+      "acceleration_0_100_kmh": "4.5s",
+      "top_speed_kmh": 250,
+      "seats": 2,
+      "drivetrain": "RWD"
+    },
+    {
+      "name": "i8 Coupe",
+      "price_vnd": 7800000000,
+      "powertrain": "1.5L 3-cylinder Tăng áp + Mô-tơ điện Plug-in Hybrid",
+      "power_hp": 369,
+      "transmission": "Tự động 6 cấp + 2 cấp mô-tơ điện",
+      "acceleration_0_100_kmh": "4.4s",
+      "top_speed_kmh": 250,
+      "seats": 4,
+      "drivetrain": "xDrive"
+    },
+    {
+      "name": "M2 Coupe",
+      "price_vnd": 4299000000,
+      "powertrain": "3.0L 6 xi-lanh thẳng hàng TwinPower Turbo",
+      "power_hp": 453,
+      "transmission": "Tự động 8 cấp M Steptronic",
+      "acceleration_0_100_kmh": "4.1s",
+      "top_speed_kmh": 285,
+      "seats": 4,
+      "drivetrain": "RWD"
+    },
+    {
+      "name": "M3 Sedan",
+      "price_vnd": 5500000000,
+      "powertrain": "3.0L M TwinPower Turbo 6 xi-lanh thẳng hàng",
+      "power_hp": 503,
+      "transmission": "Tự động 8 cấp M Steptronic",
+      "acceleration_0_100_kmh": "3.5s",
+      "top_speed_kmh": 290,
+      "seats": 5,
+      "drivetrain": "M xDrive"
+    },
+    {
+      "name": "M5 Sedan",
+      "price_vnd": 8900000000,
+      "powertrain": "V8 4.4L TwinPower Turbo",
+      "power_hp": 617,
+      "transmission": "Tự động 8 cấp M Steptronic",
+      "acceleration_0_100_kmh": "3.3s",
+      "top_speed_kmh": 305,
+      "seats": 5,
+      "drivetrain": "M xDrive"
+    },
+    {
+      "name": "M8 Competition Coupe",
+      "price_vnd": 12900000000,
+      "powertrain": "V8 4.4L TwinPower Turbo",
+      "power_hp": 617,
+      "transmission": "Tự động 8 cấp M Steptronic",
+      "acceleration_0_100_kmh": "3.2s",
+      "top_speed_kmh": 305,
+      "seats": 4,
+      "drivetrain": "M xDrive"
+    },
+    {
+      "name": "X5 M Competition",
+      "price_vnd": 6900000000,
+      "powertrain": "V8 4.4L TwinPower Turbo + Hybrid nhẹ 48V",
+      "power_hp": 617,
+      "transmission": "Tự động 8 cấp M Steptronic",
+      "acceleration_0_100_kmh": "3.9s",
+      "top_speed_kmh": 290,
+      "seats": 5,
+      "drivetrain": "M xDrive"
+    }
+  ]
+}

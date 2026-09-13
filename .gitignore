@@ -1,0 +1,21 @@
+.venv/
+models/
+vector_db/
+__pycache__/
+.DS_Store
+# IDE & Editors
+.idea/
+.vscode/
+
+# Python Environments & Cache
+.venv/
+venv/
+__pycache__/
+
+# Large AI Model Weights
+*.safetensors
+*.bin
+*.pt
+*.onnx
+backend/New_AI/models/
+.DS_Store

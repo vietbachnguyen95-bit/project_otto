@@ -1,0 +1,281 @@
+{
+  "source": "audi - Google Tài liệu.pdf",
+  "brand": "Audi",
+  "currency": "VND",
+  "note": "Giá bán dự kiến và thông số kỹ thuật được trích xuất từ tài liệu nguồn Audi, cần xác nhận lại với đại lý trước khi tư vấn chốt mua.",
+  "vehicles": [
+    {
+      "name": "Audi A3",
+      "price_vnd": 1500000000,
+      "body_type": "Sedan hạng sang cỡ nhỏ (Subcompact Executive Sedan)",
+      "status": "Đang bán",
+      "powertrain": "Động cơ xăng 1.4L TFSI tăng áp",
+      "power_hp": 150,
+      "transmission": "Hộp số tự động ly hợp kép 7 cấp S-Tronic",
+      "drivetrain": "Hệ dẫn động cầu trước (FWD)",
+      "highlights": [
+        "Lưới tản nhiệt Singleframe hình tổ ong rộng đặc trưng",
+        "Cụm đèn pha LED sắc lẹm kèm dải LED định vị ban ngày",
+        "Bảng đồng hồ kỹ thuật số Audi Virtual Cockpit",
+        "Màn hình MMI cảm ứng trung tâm hỗ trợ Apple CarPlay/Android Auto",
+        "Mâm xe hợp kim thể thao đa chấu sắc nét",
+        "Vận hành linh hoạt, cảm giác lái chính xác và tiết kiệm nhiên liệu"
+      ],
+      "description": "Mẫu sedan hạng sang cỡ nhỏ nổi bật với thiết kế trẻ trung, hiện đại, khả năng vận hành linh hoạt và tối ưu cho môi trường đô thị.",
+      "detailed_description": "Audi A3 nổi bật với thiết kế sedan thể thao, năng động cùng các đường nét gân guốc hiện đại. Lưới tản nhiệt Singleframe hình tổ ong rộng mở kết hợp cụm đèn pha LED sắc lẹm và mâm xe hợp kim thể thao đa chấu mang đến diện mạo vô cùng lôi cuốn. Xe được trang bị khối động cơ xăng 1.4L TFSI tăng áp sản sinh công suất 150 HP, đi kèm hộp số tự động ly hợp kép 7 cấp S-Tronic và hệ dẫn động cầu trước FWD cho khả năng di chuyển linh hoạt, chính xác và tiết kiệm nhiên liệu trong đô thị. Khoang nội thất hiện đại với đồng hồ Audi Virtual Cockpit, màn hình MMI cảm ứng hỗ trợ Apple CarPlay/Android Auto, điều hòa tự động và ghế bọc da cao cấp."
+    },
+    {
+      "name": "Audi A4",
+      "price_vnd": 1800000000,
+      "body_type": "Sedan hạng sang cỡ nhỏ (Compact Executive Sedan)",
+      "status": "Đang bán",
+      "powertrain": "Động cơ xăng 2.0L TFSI tăng áp kết hợp Mild-Hybrid",
+      "power_hp": 190,
+      "transmission": "Hộp số tự động ly hợp kép 7 cấp S-Tronic",
+      "drivetrain": "Hệ dẫn động cầu trước (FWD) hoặc Quattro",
+      "highlights": [
+        "Công nghệ động cơ Mild-Hybrid 2.0L TFSI 190 HP",
+        "Lưới tản nhiệt Singleframe mở rộng sang trọng",
+        "Đèn pha và đèn hậu LED hiện đại kèm dải LED ban ngày",
+        "Audi Virtual Cockpit & MMI kết nối không dây Apple CarPlay/Android Auto",
+        "Điều hòa tự động đa vùng, ghế bọc da thuộc cao cấp"
+      ],
+      "description": "Mẫu sedan hạng sang cỡ nhỏ nổi bật với thiết kế hiện đại, khả năng vận hành linh hoạt và trang bị nhiều công nghệ tiên tiến hàng đầu phân khúc.",
+      "detailed_description": "Audi A4 sở hữu kiểu dáng sedan sang trọng, thể thao với các đường gân dập nổi khí động học sắc sảo và lưới tản nhiệt Singleframe mở rộng bề thế. Xe trang bị động cơ xăng 2.0L TFSI tăng áp kết hợp công nghệ Mild-Hybrid cho công suất khoảng 190 HP, kết hợp hộp số ly hợp kép 7 cấp S-Tronic cùng tùy chọn dẫn động FWD hoặc Quattro. Nội thất giàu công nghệ với Audi Virtual Cockpit, màn hình giải trí MMI hỗ trợ kết nối Apple CarPlay và Android Auto không dây, điều hòa tự động đa vùng độc lập và ghế bọc da cao cấp."
+    },
+    {
+      "name": "Audi A5",
+      "price_vnd": 2100000000,
+      "body_type": "Coupe / Sportback hạng sang (Executive Coupe)",
+      "status": "Đang bán",
+      "powertrain": "Động cơ xăng 2.0L TFSI tăng áp",
+      "power_hp": 245,
+      "transmission": "Hộp số tự động ly hợp kép 7 cấp S-Tronic",
+      "drivetrain": "Hệ dẫn động 4 bánh toàn thời gian Quattro",
+      "highlights": [
+        "Kiểu dáng Coupe/Sportback thể thao với đường mái vuốt thấp",
+        "Đèn pha LED Matrix hiện đại",
+        "Động cơ 2.0L TFSI 245 HP & Dẫn động 4 bánh Quattro",
+        "Dàn âm thanh cao cấp sống động",
+        "Màn hình MMI cảm ứng hỗ trợ Apple CarPlay/Android Auto không dây"
+      ],
+      "description": "Mẫu xe sang mang phong cách thể thao quyến rũ, kết hợp hoàn hảo giữa đường nét thiết kế thanh lịch và khả năng vận hành mạnh mẽ.",
+      "detailed_description": "Audi A5 cuốn hút với kiểu dáng Coupe thể thao, đường mái vuốt thấp mềm mại, lưới tản nhiệt Singleframe góc cạnh cùng cụm đèn pha LED Matrix tiên tiến. Trái tim của Audi A5 là khối động cơ xăng 2.0L TFSI tăng áp sản sinh công suất khoảng 245 HP, đi kèm hộp số 7 cấp S-Tronic và hệ dẫn động 4 bánh Quattro giúp xe vận hành mạnh mẽ, cực kỳ ổn định ở tốc độ cao. Nội thất bọc da cao cấp ôm sát lưng, trang bị bảng đồng hồ kỹ thuật số Audi Virtual Cockpit, MMI không dây và dàn âm thanh sống động."
+    },
+    {
+      "name": "Audi A6",
+      "price_vnd": 2500000000,
+      "body_type": "Sedan hạng sang cỡ trung (Executive Sedan)",
+      "status": "Đang bán",
+      "powertrain": "Động cơ xăng 2.0L TFSI tăng áp tích hợp Mild-Hybrid",
+      "power_hp": 245,
+      "transmission": "Hộp số ly hợp kép 7 cấp S-Tronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro",
+      "highlights": [
+        "Đèn pha HD Matrix LED sắc nét với dải đồ họa ánh sáng hiện đại",
+        "Hệ thống cảm ứng kép MMI Navigation Plus",
+        "Động cơ 2.0L TFSI Mild-Hybrid 245 HP & Dẫn động Quattro",
+        "Ghế da cao cấp chỉnh điện đa hướng nhớ vị trí",
+        "Khả năng cách âm vượt trội, vận hành êm ái"
+      ],
+      "description": "Mẫu sedan hạng sang cỡ trung kết hợp hoàn hảo giữa thiết kế lịch lãm, không gian nội thất rộng rãi cùng hàng loạt công nghệ hiện đại bậc nhất.",
+      "detailed_description": "Audi A6 sở hữu phong cách sedan doanh nhân lịch lãm với lưới tản nhiệt Singleframe bề thế và cụm đèn pha HD Matrix LED đỉnh cao. Xe được trang bị động cơ xăng 2.0L TFSI tăng áp kết hợp công nghệ Mild-Hybrid cho công suất 245 HP, hộp số ly hợp kép 7 cấp S-Tronic và hệ dẫn động 4 bánh Quattro mang lại trải nghiệm lái êm ái cùng khả năng cách âm vượt trội. Khoang cabin nổi bật với hai màn hình cảm ứng MMI Navigation Plus, Audi Virtual Cockpit, điều hòa tự động nhiều vùng độc lập và ghế bọc da cao cấp nhớ vị trí."
+    },
+    {
+      "name": "Audi A7",
+      "price_vnd": 3200000000,
+      "body_type": "Sportback / Coupe 4 cửa hạng sang (Luxury Fastback)",
+      "status": "Đang bán",
+      "powertrain": "Động cơ xăng V6 3.0L TFSI kết hợp Mild-Hybrid 48V",
+      "power_hp": 335,
+      "transmission": "Hộp số ly hợp kép 7 cấp S-Tronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro",
+      "highlights": [
+        "Thiết kế Sportback 5 cửa thể thao với đuôi xe vuốt mượt mà",
+        "Động cơ V6 3.0L TFSI Mild-Hybrid 48V công suất 335 HP",
+        "Đèn pha HD Matrix LED với hiệu ứng ánh sáng chào mừng",
+        "Hệ thống hai màn hình cảm ứng MMI phản hồi rung Haptic",
+        "Dàn âm thanh vòm cao cấp & Kết nối CarPlay/Android Auto không dây"
+      ],
+      "description": "Mẫu xe sang cao cấp sở hữu kiểu dáng Sportback đặc trưng, kết hợp hoàn hảo giữa sự tiện nghi của sedan và phong cách thể thao quyến rũ của coupe.",
+      "detailed_description": "Audi A7 mang đậm chất thể thao với phom dáng Sportback 5 cửa, đường mái vuốt thấp mượt mà và lưới tản nhiệt Singleframe rộng. Hệ thống đèn pha HD Matrix LED tích hợp hiệu ứng ánh sáng chào mừng ấn tượng. Xe sử dụng động cơ V6 3.0L TFSI kết hợp công nghệ Mild-Hybrid 48V cho công suất 335 HP, hộp số 7 cấp S-Tronic và dẫn động 4 bánh Quattro giúp tăng tốc bứt phá nhưng vẫn vận hành vô cùng êm ái. Bên trong là trung tâm điều khiển gồm 2 màn hình cảm ứng MMI phản hồi lực rung haptic, Audi Virtual Cockpit và dàn âm thanh vòm sống động."
+    },
+    {
+      "name": "Audi A8L",
+      "price_vnd": 5800000000,
+      "body_type": "Sedan hạng sang cỡ lớn đầu bảng (Full-size Luxury Sedan)",
+      "status": "Đặt hàng trước / Nhập khẩu",
+      "powertrain": "Động cơ V6 3.0L TFSI Mild-Hybrid 48V",
+      "power_hp": 340,
+      "transmission": "Hộp số tự động 8 cấp Tiptronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro",
+      "highlights": [
+        "Chiều dài cơ sở kéo dài (LWB) tạo khoang thương gia siêu rộng",
+        "Đèn pha Digital Matrix LED kết hợp đèn hậu OLED",
+        "Hệ thống treo khí nén thích ứng mang lại sự êm ái tuyệt đối",
+        "Hàng ghế sau thương gia hỗ trợ Massage/Sưởi/Làm mát",
+        "Dàn âm thanh vòm 3D Bang & Olufsen đỉnh cao"
+      ],
+      "description": "Mẫu sedan flagship đỉnh cao của Audi, đại diện cho sự sang trọng bậc nhất, không gian rộng rãi tối đa cùng các công nghệ hiện đại vượt trội.",
+      "detailed_description": "Audi A8L là mẫu sedan flagship biểu tượng cho sự sang trọng và công nghệ đỉnh cao. Thiết kế chiều dài cơ sở kéo dài (LWB) mang lại diện mạo uy nghi với lưới tản nhiệt mạ chrome cỡ lớn, đèn pha Digital Matrix LED và đèn hậu OLED hiện đại. Động cơ V6 3.0L TFSI Mild-Hybrid 48V (340 HP) kết hợp hộp số 8 cấp Tiptronic, dẫn động Quattro và hệ thống treo khí nén thích ứng mang tới trải nghiệm vận hành êm ái tuyệt đối. Khoang sau thiết kế chuẩn thương gia với ghế massage/sưởi/làm mát, màn hình giải trí riêng, hệ thống 2 màn hình MMI trung tâm và âm thanh 3D Bang & Olufsen."
+    },
+    {
+      "name": "Audi RS5",
+      "price_vnd": 3800000000,
+      "body_type": "Coupe thể thao hiệu suất cao (High-Performance Coupe)",
+      "status": "Đang bán",
+      "powertrain": "Động cơ xăng V6 2.9L TFSI Twin-Turbo tăng áp kép",
+      "power_hp": 444,
+      "acceleration_0_100_kmh": "3,9 giây",
+      "transmission": "Hộp số tự động 8 cấp Tiptronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro",
+      "highlights": [
+        "Động cơ V6 2.9L Twin-Turbo công suất 444 HP",
+        "Tăng tốc 0-100 km/h cực nhanh chỉ trong 3,9 giây",
+        "Lưới tản nhiệt RS dạng tổ ong sơn đen bóng độc quyền",
+        "Audi Virtual Cockpit với giao diện hiển thị RS chuyên biệt",
+        "Ghế thể thao RS bọc da cao cấp thêu logo RS sắc nét"
+      ],
+      "description": "Mẫu coupe thể thao hiệu suất cao của Audi, nổi bật với thiết kế mạnh mẽ, đường nét khí động học tối ưu và khả năng vận hành vô cùng ấn tượng.",
+      "detailed_description": "Audi RS5 là chiếc Coupe 2 cửa cơ bắp mang hiệu năng vận hành bùng nổ. Xe sở hữu cản trước khí động học độc quyền, lưới tản nhiệt RS tổ ong đen bóng, đèn Matrix LED và mâm hợp kim RS kích thước lớn. Khối động cơ V6 2.9L TFSI Twin-Turbo tăng áp kép tạo ra công suất 444 HP, kết hợp hộp số 8 cấp Tiptronic và hệ dẫn động Quattro cho phép tăng tốc từ 0-100 km/h chỉ trong 3,9 giây. Nội thất đậm chất đua với ghế thể thao RS, vô-lăng vát đáy tích hợp lẫy chuyển số và màn hình Audi Virtual Cockpit giao diện RS."
+    },
+    {
+      "name": "Audi RS7 Sportback",
+      "price_vnd": 10500000000,
+      "body_type": "Coupe 5 cửa hiệu suất cao (High-Performance Sportback)",
+      "status": "Sẵn xe giao ngay",
+      "powertrain": "Động cơ V8 4.0L Twin-Turbo kết hợp Mild-Hybrid 48V",
+      "power_hp": 621,
+      "acceleration_0_100_kmh": "3,4 giây",
+      "top_speed_kmh": 305,
+      "transmission": "Hộp số tự động 8 cấp Tiptronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro",
+      "highlights": [
+        "Sức mạnh vượt trội 591 - 621 HP từ động cơ V8 4.0L Twin-Turbo",
+        "Tăng tốc 0-100 km/h trong 3,4 giây, tốc độ tối đa lên tới 305 km/h",
+        "Đèn pha HD Matrix LED tích hợp công nghệ chiếu sáng Laser",
+        "Phanh RS hiệu suất cao cùng vòm bánh xe mở rộng hầm hố",
+        "Ghế thể thao bọc da Valcona họa tiết tổ ong & Âm thanh Bang & Olufsen 3D"
+      ],
+      "description": "Mẫu xe coupe 5 cửa hiệu suất cao biểu tượng, kết hợp hoàn hảo giữa thiết kế Sportback quyến rũ, không gian rộng rãi và sức mạnh đỉnh cao của dòng RS.",
+      "detailed_description": "Audi RS7 Sportback là sự kết hợp hoàn hảo giữa vẻ đẹp quyến rũ của dòng Sportback 5 cửa và sức mạnh cơ bắp đỉnh cao. Thân xe rộng hầm hố với lưới tản nhiệt RS đen bóng, đèn HD Matrix LED tích hợp Laser và phanh RS hiệu suất cao. Sức mạnh đến từ khối động cơ V8 4.0L Twin-Turbo Mild-Hybrid 48V cho công suất 591 - 621 HP, giúp xe bứt tốc 0-100 km/h chỉ trong 3,4 giây và đạt tốc độ tối đa 305 km/h. Khoang lái sang trọng với ghế thể thao RS da Valcona, vô-lăng đáy phẳng có nút chuyển RS Mode nhanh và hệ thống âm thanh Bang & Olufsen 3D."
+    },
+    {
+      "name": "Audi R8 V10 Performance",
+      "price_vnd": 12000000000,
+      "body_type": "Siêu xe thể thao động cơ đặt giữa (Mid-Engine Supercar)",
+      "status": "Nhập khẩu nguyên chiếc",
+      "powertrain": "Động cơ V10 5.2L FSI Hút khí tự nhiên",
+      "power_hp": 610,
+      "acceleration_0_100_kmh": "3,2 giây",
+      "top_speed_kmh": 330,
+      "transmission": "Hộp số tự động ly hợp kép 7 cấp S-Tronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro",
+      "highlights": [
+        "Khung gầm nhôm và sợi carbon Audi Space Frame (ASF) siêu nhẹ",
+        "Động cơ V10 5.2L Hút khí tự nhiên công suất 602 - 610 HP",
+        "Tăng tốc 0-100 km/h chỉ 3,2 giây, tốc độ tối đa 330 km/h",
+        "Hệ thống phanh gốm carbon hiệu suất cao",
+        "Triết lý khoang lái Monoposto tập trung hoàn toàn vào người lái"
+      ],
+      "description": "Mẫu siêu xe động cơ đặt giữa biểu tượng của thương hiệu 4 vòng tròn, kết hợp hoàn hảo giữa hiệu suất đua chuyên nghiệp và khả năng vận hành linh hoạt hàng ngày.",
+      "detailed_description": "Audi R8 V10 Performance là biểu tượng siêu xe động cơ đặt giữa dùng chung nền tảng với Lamborghini Huracán. Sử dụng cấu trúc khung gầm Audi Space Frame (ASF) làm từ nhôm và sợi carbon siêu nhẹ, xe được trang bị động cơ V10 5.2L FSI Hút khí tự nhiên tạo ra công suất 602 - 610 HP. Đi kèm hộp số 7 cấp S-Tronic và dẫn động Quattro, R8 tăng tốc 0-100 km/h trong 3,2 giây và đạt tốc độ tối đa 330 km/h. Khoang lái Monoposto bọc da cao cấp tích hợp vô-lăng thể thao vát đáy chứa nút Start/Stop, phanh gốm carbon và bộ chọn chế độ lái Audi Drive Select."
+    },
+    {
+      "name": "Audi TT 20th Anniversary Edition",
+      "price_vnd": 4500000000,
+      "body_type": "Xe thể thao Coupe / Roadster (Kỷ niệm giới hạn)",
+      "status": "Phiên bản giới hạn / Đặt hàng trước",
+      "powertrain": "Động cơ xăng 4 xi-lanh 2.0L TFSI tăng áp",
+      "power_hp": 228,
+      "acceleration_0_100_kmh": "5,2 giây",
+      "transmission": "Hộp số tự động ly hợp kép 7 cấp S-Tronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro",
+      "highlights": [
+        "Phiên bản đặc biệt kỷ niệm 20 năm biểu tượng Audi TT",
+        "Huy hiệu độc quyền '20th Anniversary' ở chắn bùn và khoang lái",
+        "Mâm hợp kim 19 inch 5 chấu riêng biệt",
+        "Nội thất da Moccasin Brown khâu chỉ hình quả trám độc đáo",
+        "Audi Virtual Cockpit, MMI Navigation Plus & Sạc không dây"
+      ],
+      "description": "Phiên bản đặc biệt kỷ niệm 20 năm biểu tượng xe thể thao Audi TT, lấy cảm hứng từ mẫu xe ý tưởng (concept) Audi TTS ra mắt lần đầu năm 1995.",
+      "detailed_description": "Audi TT 20th Anniversary Edition là phiên bản sưu tầm đặc biệt ra đời nhằm kỷ niệm 20 năm di sản của dòng xe thể thao mang tính biểu tượng TT. Xe mang đường nét thiết kế lấy cảm hứng từ bản Concept năm 1995 với mâm 19 inch 5 chấu riêng biệt và logo '20th Anniversary'. Động cơ 2.0L TFSI tăng áp 228 HP kết hợp hộp số 7 cấp S-Tronic và dẫn động Quattro giúp xe bứt tốc 0-96 km/h trong 5,2 giây (bản Coupe). Cabin nổi bật nhờ chất liệu da Moccasin Brown may chỉ hình quả trám màu vàng thủ công, tích hợp đồng hồ Audi Virtual Cockpit và màn hình MMI Navigation Plus."
+    },
+    {
+      "name": "Audi Q3",
+      "price_vnd": 1900000000,
+      "body_type": "SUV hạng sang cỡ nhỏ (Subcompact Luxury Crossover)",
+      "status": "Đang bán",
+      "powertrain": "Động cơ xăng 2.0L TFSI tăng áp",
+      "power_hp": 190,
+      "transmission": "Hộp số tự động ly hợp kép 7 cấp S-Tronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro",
+      "highlights": [
+        "Lưới tản nhiệt Singleframe hình bát giác cá tính",
+        "Động cơ 2.0L TFSI 190 HP kết hợp hệ dẫn động Quattro",
+        "Bảng đồng hồ kỹ thuật số Audi Virtual Cockpit",
+        "Màn hình MMI cảm ứng hỗ trợ Apple CarPlay/Android Auto",
+        "Cốp sau đóng mở điện tiện lợi, nội thất da cao cấp"
+      ],
+      "description": "Mẫu SUV hạng sang cỡ nhỏ nổi bật với thiết kế trẻ trung, không gian tiện dụng tối ưu cùng khả năng vận hành vô cùng linh hoạt trên mọi cung đường.",
+      "detailed_description": "Audi Q3 là mẫu Crossover hạng sang cỡ nhỏ sở hữu diện mạo thể thao, nhỏ gọn với lưới tản nhiệt Singleframe bát giác nan dọc và cụm đèn pha LED sắc nét. Xe được trang bị động cơ xăng 2.0L TFSI tăng áp công suất 190 HP, hộp số ly hợp kép 7 cấp S-Tronic cùng hệ dẫn động 4 bánh Quattro linh hoạt cả trong phố lẫn đường trường. Nội thất bọc da cao cấp sang trọng tích hợp Audi Virtual Cockpit, màn hình MMI cảm ứng, điều hòa đa vùng và cốp đóng mở bằng điện."
+    },
+    {
+      "name": "Audi Q5",
+      "price_vnd": 2300000000,
+      "body_type": "SUV hạng sang cỡ trung (Compact Luxury Crossover)",
+      "status": "Đang bán",
+      "powertrain": "Động cơ xăng 2.0L TFSI tăng áp kết hợp Mild-Hybrid",
+      "power_hp": 249,
+      "transmission": "Hộp số ly hợp kép 7 cấp S-Tronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro Ultra",
+      "highlights": [
+        "Động cơ 2.0L TFSI Mild-Hybrid công suất 249 HP tiết kiệm",
+        "Đèn pha Matrix LED chiếu sáng thông minh",
+        "Hệ dẫn động 4 bánh Quattro Ultra linh hoạt",
+        "Màn hình MMI cảm ứng kết nối Apple CarPlay/Android Auto không dây",
+        "Ghế da cao cấp chỉnh điện nhớ vị trí & Cốp điện thông minh"
+      ],
+      "description": "Mẫu SUV hạng sang phổ biến bậc nhất của Audi, nổi bật với thiết kế mạnh mẽ, không gian rộng rãi cùng khả năng vận hành linh hoạt trên nhiều dạng địa hình.",
+      "detailed_description": "Audi Q5 là mẫu SUV bán chạy hàng đầu của hãng nhờ sự cân bằng giữa thiết kế cơ bắp và sự tiện nghi. Xe có lưới tản nhiệt bát giác cá tính, đèn pha Matrix LED thông minh và khoảng sáng gầm tối ưu. Sức mạnh đến từ động cơ 2.0L TFSI Mild-Hybrid công suất 249 HP đi cùng hộp số 7 cấp S-Tronic và hệ dẫn động Quattro Ultra giúp vận hành tối ưu tiết kiệm nhiên liệu. Nội thất cao cấp trang bị bảng đồng hồ Audi Virtual Cockpit, MMI cảm ứng không dây, ghế da nhớ vị trí và không gian hành lý rộng rãi."
+    },
+    {
+      "name": "Audi Q7",
+      "price_vnd": 3500000000,
+      "body_type": "SUV 7 chỗ hạng sang cỡ lớn (Mid-Size Luxury SUV)",
+      "status": "Đang bán",
+      "powertrain": "Động cơ xăng V6 3.0L TFSI kết hợp Mild-Hybrid 48V",
+      "power_hp": 335,
+      "transmission": "Hộp số tự động 8 cấp Tiptronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro",
+      "highlights": [
+        "Cấu hình 7 chỗ ngồi rộng rãi, linh hoạt cho gia đình",
+        "Động cơ V6 3.0L TFSI Mild-Hybrid 48V mạnh mẽ 335 HP",
+        "Cụm đèn pha HD Matrix LED uy nghiêm",
+        "Hệ thống hai màn hình cảm ứng MMI đa chức năng",
+        "Cốp điện thông minh chống kẹt, điều hòa nhiều vùng độc lập"
+      ],
+      "description": "Mẫu SUV hạng sang cỡ lớn nổi bật với cấu hình 7 chỗ rộng rãi, thiết kế bề thế, cùng hàng loạt công nghệ hiện đại tối tân đáp ứng trọn vẹn nhu cầu của gia đình.",
+      "detailed_description": "Audi Q7 là mẫu SUV 7 chỗ bề thế dành cho gia đình thượng lưu. Xe thu hút ánh nhìn với lưới tản nhiệt bát giác thanh nan dọc mạ chrome và đèn pha HD Matrix LED cao cấp. Dưới nắp capo là khối động cơ V6 3.0L TFSI Mild-Hybrid 48V công suất 335 HP, kết hợp hộp số 8 cấp Tiptronic và hệ dẫn động 4 bánh Quattro mang lại khả năng vận hành vô cùng đầm chắc và êm ái trên những hành trình dài. Nội thất rộng rãi 7 chỗ linh hoạt, tích hợp 2 màn hình cảm ứng MMI, Audi Virtual Cockpit, ghế da cao cấp nhớ vị trí và cốp điện chống kẹt."
+    },
+    {
+      "name": "Audi Q8",
+      "price_vnd": 4200000000,
+      "body_type": "SUV Coupe hạng sang cỡ lớn (Mid-Size Luxury Coupe SUV)",
+      "status": "Đang bán",
+      "powertrain": "Động cơ xăng V6 3.0L TFSI kết hợp Mild-Hybrid 48V",
+      "power_hp": 335,
+      "transmission": "Hộp số tự động 8 cấp Tiptronic",
+      "drivetrain": "Hệ dẫn động 4 bánh Quattro",
+      "highlights": [
+        "Kiểu dáng SUV Coupe thể thao với mái vuốt mượt mà",
+        "Đèn HD Matrix LED kết hợp dải đèn hậu LED vắt ngang nổi bật",
+        "Động cơ V6 3.0L TFSI Mild-Hybrid 48V công suất 335 HP",
+        "Hệ thống hai màn hình cảm ứng MMI phản hồi lực rung Haptic",
+        "Dàn âm thanh vòm cao cấp, kết nối CarPlay/Android Auto không dây"
+      ],
+      "description": "Mẫu SUV Coupe cao cấp hàng đầu của Audi, kết hợp hoàn hảo giữa kiểu dáng thể thao việt dã, đẳng cấp sang trọng cùng những công nghệ hiện đại bậc nhất.",
+      "detailed_description": "Audi Q8 là mẫu SUV Coupe hàng đầu của dòng Q-family, sở hữu đường mái vuốt thấp quyến rũ về đuôi xe, lưới tản nhiệt bát giác mở rộng cùng dải đèn hậu LED vắt ngang cá tính. Xe trang bị động cơ xăng V6 3.0L TFSI kết hợp Mild-Hybrid 48V (335 HP), hộp số 8 cấp Tiptronic và dẫn động 4 bánh Quattro đem lại khả năng tăng tốc mạnh mẽ và ổn định ở tốc độ cao. Khoang cabin hiện đại với màn hình kép MMI phản hồi lực rung haptic, Audi Virtual Cockpit, ghế da cao cấp chỉnh điện nhớ vị trí và dàn âm thanh vòm đỉnh cao."
+    }
+  ]
+}

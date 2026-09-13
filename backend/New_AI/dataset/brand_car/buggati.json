@@ -1,0 +1,126 @@
+{
+  "brand": "Bugatti",
+  "vehicles": [
+    {
+      "name": "Bolide",
+      "price_vnd": 115000000000,
+      "powertrain": "W16 8.0L Quad-Turbo",
+      "power_hp": 1578,
+      "transmission": "Hộp số tuần tự 7 cấp",
+      "acceleration_0_100_kmh": "2.17s",
+      "top_speed_kmh": 500,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "Chiron Super Sport",
+      "price_vnd": 98000000000,
+      "powertrain": "W16 8.0L Quad-Turbo",
+      "power_hp": 1578,
+      "transmission": "Ly hợp kép 7 cấp",
+      "acceleration_0_100_kmh": "2.4s",
+      "top_speed_kmh": 440,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "W16 Mistral",
+      "price_vnd": 130000000000,
+      "powertrain": "W16 8.0L Quad-Turbo",
+      "power_hp": 1578,
+      "transmission": "Ly hợp kép 7 cấp",
+      "acceleration_0_100_kmh": "2.4s",
+      "top_speed_kmh": 420,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "Tourbillon",
+      "price_vnd": 105000000000,
+      "powertrain": "V16 8.3L Hút khí tự nhiên + 3 Mô-tơ điện",
+      "power_hp": 1800,
+      "transmission": "Ly hợp kép 8 cấp",
+      "acceleration_0_100_kmh": "2.0s",
+      "top_speed_kmh": 445,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "Centodieci",
+      "price_vnd": 230000000000,
+      "powertrain": "W16 8.0L Quad-Turbo",
+      "power_hp": 1600,
+      "transmission": "Tự động ly hợp kép 7 cấp",
+      "acceleration_0_100_kmh": "2.4s",
+      "top_speed_kmh": 380,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "Chiron",
+      "price_vnd": 78000000000,
+      "powertrain": "W16 8.0L Quad-Turbo",
+      "power_hp": 1500,
+      "transmission": "Ly hợp kép 7 cấp",
+      "acceleration_0_100_kmh": "2.4s",
+      "top_speed_kmh": 420,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "Chiron Pur Sport",
+      "price_vnd": 93000000000,
+      "powertrain": "W16 8.0L Quad-Turbo",
+      "power_hp": 1500,
+      "transmission": "7 cấp tỉ số truyền ngắn",
+      "acceleration_0_100_kmh": "2.3s",
+      "top_speed_kmh": 350,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "Divo",
+      "price_vnd": 150000000000,
+      "powertrain": "W16 8.0L Quad-Turbo",
+      "power_hp": 1500,
+      "transmission": "Ly hợp kép 7 cấp",
+      "acceleration_0_100_kmh": "2.4s",
+      "top_speed_kmh": 380,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "EB110 Super Sport",
+      "price_vnd": 80000000000,
+      "powertrain": "V12 3.5L Quad-Turbo",
+      "power_hp": 603,
+      "transmission": "Số sàn 6 cấp",
+      "acceleration_0_100_kmh": "3.2s",
+      "top_speed_kmh": 355,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "La Voiture Noire",
+      "price_vnd": 480000000000,
+      "powertrain": "W16 8.0L Quad-Turbo",
+      "power_hp": 1500,
+      "transmission": "Ly hợp kép 7 cấp",
+      "acceleration_0_100_kmh": "2.4s",
+      "top_speed_kmh": 420,
+      "seats": 2,
+      "drivetrain": "AWD"
+    },
+    {
+      "name": "Veyron 16.4 Grand Sport Vitesse",
+      "price_vnd": 50000000000,
+      "powertrain": "W16 8.0L Quad-Turbo",
+      "power_hp": 1200,
+      "transmission": "Ly hợp kép 7 cấp DSG",
+      "acceleration_0_100_kmh": "2.5s",
+      "top_speed_kmh": 431,
+      "seats": 2,
+      "drivetrain": "AWD"
+    }
+  ]
+}
